@@ -14,7 +14,7 @@ deploy:
   region: "ap-south-1"
   app: "docker"
   env: "Docker-env"
-  bucket_name: "elasticbeanstalk-ap-south-1-693815149061"
+  bucket_name: elasticbeanstalk-ap-south-1-693815149061
   bucket_path: "docker"
   on:
     branch: master
